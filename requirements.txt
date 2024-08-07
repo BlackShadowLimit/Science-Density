@@ -3,6 +3,5 @@ groq
 SpeechRecognition
 gTTS
 pydub
-simpleaudio
 google.generativeai
 simpleaudio
