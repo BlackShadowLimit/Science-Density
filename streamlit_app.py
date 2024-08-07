@@ -1,5 +1,4 @@
 import streamlit as st
-import SD_Brain
 import speech_recognition as sr
 from gtts import gTTS
 from pydub import AudioSegment
