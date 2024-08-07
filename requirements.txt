@@ -1,6 +1,5 @@
 streamlit
 groq
-SD_Brain
 SpeechRecognition
 gTTS
 pydub
